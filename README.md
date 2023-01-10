@@ -6,7 +6,8 @@ Cynthia Adom-Portuphy
 
 
 
-![Uploading Bellabeat2.png…]()
+
+![Bellabeat2](https://user-images.githubusercontent.com/121705109/211440698-357ed754-5dc9-44ac-86c1-5fe7735cef3c.png)
 
 
 ## Table of Content
