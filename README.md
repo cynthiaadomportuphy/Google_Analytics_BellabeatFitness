@@ -1,12 +1,14 @@
 Bellabeat Fitness Project
 ================
-Cynthia Adom-Portuphy
+Cynthia Adom-Portuphy![Bellabeat2](https://user-images.githubusercontent.com/121705109/211440397-103f4d26-1932-4b39-988f-235ff1da97ab.png)
+
 2022-12-22
 
 
 
 ![Image showing bellabeat text and symbol, and a woman who is physically fit.](C:Desktop/Projects/Google_analytics_bellabeat_project/Bellabeat42.png)
 
+![Uploading Bellabeat2.png…]()
 
 
 ## Table of Content
