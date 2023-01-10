@@ -6,8 +6,6 @@ Cynthia Adom-Portuphy![Bellabeat2](https://user-images.githubusercontent.com/121
 
 
 
-![Image showing bellabeat text and symbol, and a woman who is physically fit.](C:Desktop/Projects/Google_analytics_bellabeat_project/Bellabeat42.png)
-
 ![Uploading Bellabeat2.png…]()
 
 
@@ -945,5 +943,10 @@ Some of the major observations include:
   positive impact of physical activity on sleep to motivate people to
   move more. Notifications on when a user has less sleep and when it is
   time to sleep can both be good prompts.
+  
+  
+  
+  
+![Bellabeat4](https://user-images.githubusercontent.com/121705109/211440549-fde4566c-efc8-4c06-a4f9-1a1560b6638a.jpg)
 
 ![Image showing a mother and daughter exercising on a mat](C:Desktop/Projects/Google_analytics_bellabeat_project/Bellabeat4.jpg)
